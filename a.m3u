@@ -1,0 +1,142 @@
+#EXTM3U url-tvg="https://gg.gg/coocaaE" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="quochoi" tvg-logo="https://i.ibb.co/WG9xkxb/ccquochoi.webp",Quốc Hội TV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/04.m3u8 
+#https://coca.dl.dropboxusercontent.com/s/q87a4wg5qle3spc6r34a6/ 																															 ㅤ?quochoi      										 												 &rlkey=ypq1t743v3q7e4jnlabp8d9i7 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="qpvnhd" tvg-logo="https://i.ibb.co/tK6PMzy/ccquocphong.webp",Quốc Phòng TV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/03.m3u8
+#http://27.76.137.122:1935/standard/smil:standard.smil/chunklist_b996000_sleng.m3u8 
+#https://coca.dl.dropboxusercontent.com/s/j80pypmfu410b4rmu17ok/ 																															 ㅤ?quocphong      										 												 &rlkey=015ja2sxqqan0ub3nf0zm1f4b 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="antvhd" tvg-logo="https://i.ibb.co/P6ZDPCf/ccanninh.webp",An Ninh TV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8 
+#https://coca.dl.dropboxusercontent.com/s/7wn6fmtp6xn5hen9pjl8z/ 																															 ㅤ?anninh      										 													 &rlkey=lrzn2vshlcusk2bxo5iplw6bo 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="nhandan" tvg-logo="https://i.ibb.co/P1cSJjp/ccnhandan.png",Nhân Dân TV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/03.m3u8 
+#https://coca.dl.dropboxusercontent.com/s/zc870pfjk0ejae2ygwqgy/ 																															 ㅤ?nhandan      										 													 &rlkey=ql1pdk5eicz8p4f4yz8vbr5ws 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 tvg-id="ttxvnhd" type="stream" group-title="6️⃣ Quê Hương" tvg-logo="https://i.ibb.co/9G9bfmf/ccthongtan.webp",V.News TV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/03.m3u8 
+#https://coca.dl.dropboxusercontent.com/s/syxb4jtufkvjhu1hk980i/ 																															 ㅤ?vnews      										 													 &rlkey=j41wj4qwmctzblsmc1odr37ji 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream"  group-title="6️⃣ Quê Hương" tvg-id="vovtvhd" tvg-logo="https://i.ibb.co/TR49XV0/ccvovtv.webp",VOV TV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
+#https://coca.dl.dropboxusercontent.com/s/6decufpn22arat8d4huk0/ 																															 ㅤ?vov      										 													 &rlkey=ihyayfrw5kpjiuc37sfl0lk9d 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream"  group-title="6️⃣ Quê Hương" tvg-id="phimhay" tvg-logo="https://i.ibb.co/mBm9RN0/ccphimhay.webp",Phim Hay
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#https://cdnw-liv02.todayplus.com.vn/hdb/smil:phimhay.smil/chunklist_b2289152.m3u8
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="vinhlong1hd" tvg-logo="https://i.ibb.co/PGxCzX8/ccVL1.webp",🇻 Vĩnh Long 1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/1of9wrw271upco9/ 																																																												 ㅤ?thvl1							 																		 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="vinhlong2hd" tvg-logo="https://i.ibb.co/0FDCSbz/ccVL2.webp",ㅤ Vĩnh Long 2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/wjvtjyo01o5ag3r/ 																																																												 ㅤ?thvl2							 																		 |Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="vinhlong3hd" tvg-logo="https://i.ibb.co/xg7jXGs/ccVL3.webp",ㅤ Vĩnh Long 3
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/ha5nuaskb15y40j9pa16p/																														 ㅤ?thvl3 								 												 &rlkey=eq7j7its2phh3zazvlc3uxgco|Referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="vinhlong4hd" tvg-logo="https://i.ibb.co/74ydSzT/ccVL4.webp",ㅤ Vĩnh Long 4
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/2k0uo3bykvtcq5skzi4x7/																														 ㅤ?thvl4 								 												 &rlkey=qmpiobfd73nk463883qtaauya|Referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="vinhphuc" tvg-logo="https://i.ibb.co/9YtVjcy/ccvinhphuc.webp",ㅤ Vĩnh Phúc
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream/chunklist.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="vungtau" tvg-logo="https://i.ibb.co/ThYZvSW/ccvungtau.webp",ㅤ Vũng Tàu
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://stream.brt.vn:8081/live/tv2.stream/chunklist.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="angiang" tvg-logo="https://i.ibb.co/2S90Qjd/ccangiang.webp",🇦 An Giang	
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/chunks.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="bentre" tvg-logo="https://i.ibb.co/xhSTHBj/ccbentre.webp",🇧 Bến Tre
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://1012163901.vnns.net/bentre.adm.480p.tms/chunks.m3u8 
+#EXTINF:0 group-title="6️⃣ Quê Hương" tvg-id="baclieu" tvg-logo="https://i.ibb.co/sq4hBPG/ccbaclieu.webp",ㅤ Bạc Liêu
+#EXTVLCOPT:http-user-agent=Edge/107.0.1418.24
+https://tv.thbl.vn/live/tv/tv.m3u8 
+#EXTINF:0 group-title="6️⃣ Quê Hương" tvg-id="camau" tvg-logo="https://i.ibb.co/h9Kb6FW/cccamau.webp",🇨 Cà Mau
+#EXTVLCOPT:http-user-agent=Edge/107.0.1418.24
+http://tv.ctvcamau.vn/live/tv/tv.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="cantho" tvg-logo="https://i.ibb.co/7tG6M3v/cccantho.png",ㅤ Cần Thơ
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://live.canthotv.vn/live/tv_web/chunklist.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="caobang" tvg-logo="https://i.ibb.co/wWgP3xk/cccaobang.webp",ㅤ Cao Bằng
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="danang1" tvg-logo="https://i.ibb.co/zRTmjRZ/ccdanang1.webp",🇩 Đà Nẵng 1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="danang2" tvg-logo="https://i.ibb.co/89GWvQL/ccdanang2.webp",ㅤ Đà Nẵng 2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="daklak" tvg-logo="https://i.ibb.co/PNzprxr/ccdaklak.webp",ㅤ Đăk Lăk
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="daknong" tvg-logo="https://i.ibb.co/LSTmygk/ccdaknong.webp",ㅤ Đăk Nông
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://ngvauezm51liv.vcdn.cloud/live/smil:daknong.smil/chunklist_b3128000_sleng.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="dienbien" tvg-logo="https://i.ibb.co/wgGDnCV/ccdienbien-svg.png",ㅤ Điện Biên
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="dongnai1" tvg-logo="https://i.ibb.co/brWbQt4/ccdongnai1.webp",ㅤ Đồng Nai 1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/DONGNAI1-SD-ABR/HTV-ABR/DONGNAI1-SD-720p/chunks.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="dongnai2" tvg-logo="https://i.ibb.co/0sm75cC/ccdongnai2.webp",ㅤ Đồng Nai 2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_b1384000.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="dongthap" tvg-logo="https://i.ibb.co/ZcfJyD2/ccdongthap.webp",ㅤ Đồng Tháp 1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/DONGTHAP-SD-ABR/HTV-ABR/DONGTHAP-SD-720p/chunks.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="mientay" tvg-logo="https://i.ibb.co/CVdMzC3/ccmientay.webp",ㅤ Đồng Tháp 2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://e8.endpoint.cdn.sctvonline.vn/hls/thdt2/index.m3u8|Referer=https://sctvonline.vn/ 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="hanoi1" tvg-logo="https://i.ibb.co/yQxsXhs/cchanoi1.webp",🇭 Hà Nội 1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="hanoi2" tvg-logo="https://i.ibb.co/B4Gy5BW/cchanoi2.webp",ㅤ Hà Nội 2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/chunklist_b3128000_slen.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="hanam" tvg-logo="https://i.ibb.co/pvjwJSL/cchanam.webp",ㅤ Hà Nam
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8 
+#https://live.hanamtv.vn/thhnlive/tv1live.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="hagiang" tvg-logo="https://i.ibb.co/2tJgRCq/cchagiang.webp",ㅤ Hà Giang
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="hatinh" tvg-logo="https://i.ibb.co/G7tnzWx/cchatinh.webp",ㅤ Hà Tĩnh
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://wse.hatinhtv.net/live/httv1/chunklist.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="haiduong" tvg-logo="https://i.ibb.co/MZHbjxw/cchaiduong.webp",ㅤ Hải Dương
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=medium&type=tv&token=gSTbcZR03r352niGuuUCig&time=1591151021&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1591064621734&pkg=pkg11.hni 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="haiphong" tvg-logo="https://i.ibb.co/yykrwPX/cchaiphong.webp",ㅤ Hải Phòng
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://cdn.thhp.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="haiphongplus" tvg-logo="https://i.ibb.co/cJRWQWw/cchaiphongplus.webp",ㅤ Hải Phòng+
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://cdn.thhp.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="haugiang" tvg-logo="https://i.ibb.co/ZVsNkSs/cchaugiang.webp",ㅤ Hậu Giang
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="hoabinh" tvg-logo="https://i.ibb.co/YbHHR7W/cchoabinh.webp",ㅤ Hòa Bình
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://hbtvlive.3ssoft.vn/hoabinhtv/chunklist.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="hue" tvg-logo="https://i.ibb.co/9yc6TL4/cchue.webp",ㅤ Huế
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://live.trt.com.vn/TRT-Online/chunklist.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="hungyen" tvg-logo="https://i.ibb.co/7Qk3tYz/cchungyen.webp",ㅤ Hưng Yên
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://cdn.hungyentv.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8 
+#https://live.hungyentv.vn/hytvlive/tv1live.m3u8 
+#EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="yenbai" tvg-logo="https://i.ibb.co/3WFQXgB/Yen-Bai-cc.webp",🇾 Yên Bái
