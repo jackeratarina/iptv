@@ -33,19 +33,19 @@ https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="vinhlong1hd" tvg-logo="https://i.ibb.co/PGxCzX8/ccVL1.webp",Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://live3.thvli.vn/Un4i_3NjXdANS0M6ea7bKw/1711444469/thvli/thvl1-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3																																																												 ㅤ?thvl1							 																		 |Referer=https://www.thvli.vn/
+https://live3.thvli.vn/Un4i_3NjXdANS0M6ea7bKw/1711444469/thvli/thvl1-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTVLCOPT:http-referer=https://www.thvli.vn/
 #EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="vinhlong2hd" tvg-logo="https://i.ibb.co/0FDCSbz/ccVL2.webp",Vĩnh Long 2
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://live3.thvli.vn/k381fEGLY5LCIiAhbtQUwA/1711444301/thvli/thvl2-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3																																																											 ㅤ?thvl2							 																		 |Referer=https://www.thvli.vn/
+https://live3.thvli.vn/k381fEGLY5LCIiAhbtQUwA/1711444301/thvli/thvl2-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTVLCOPT:http-referer=https://www.thvli.vn/
 #EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="vinhlong3hd" tvg-logo="https://i.ibb.co/xg7jXGs/ccVL3.webp",Vĩnh Long 3
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://www.thvli.vn/
-https://live3.thvli.vn/zQA5b3VWYRTcKaebpG7_nw/1711444134/thvli/thvl3-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3																													 ㅤ?thvl3 								 												 &rlkey=eq7j7its2phh3zazvlc3uxgco|Referer=https://www.thvli.vn/
+https://live3.thvli.vn/zQA5b3VWYRTcKaebpG7_nw/1711444134/thvli/thvl3-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTVLCOPT:http-referer=https://www.thvli.vn/
 #EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="vinhlong4hd" tvg-logo="https://i.ibb.co/74ydSzT/ccVL4.webp",Vĩnh Long 4
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://www.thvli.vn/
-https://live3.thvli.vn/w0Zh5rXfrYJZyShNJ7gr6A/1711444091/thvli/thvl4-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3																												 ㅤ?thvl4 								 												 &rlkey=qmpiobfd73nk463883qtaauya|Referer=https://www.thvli.vn/
+https://live3.thvli.vn/w0Zh5rXfrYJZyShNJ7gr6A/1711444091/thvli/thvl4-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="vinhphuc" tvg-logo="https://i.ibb.co/9YtVjcy/ccvinhphuc.webp",ㅤ Vĩnh Phúc
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://www.thvli.vn/
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/chunklist.m3u8 
@@ -57,7 +57,7 @@ https://stream.brt.vn:8081/live/tv2.stream/chunklist.m3u8
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/chunks.m3u8 
 #EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="bentre" tvg-logo="https://i.ibb.co/xhSTHBj/ccbentre.webp",🇧 Bến Tre
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
-https://1012163901.vnns.net/bentre.adm.480p.tms/chunks.m3u8 
+https://1632816226.vnns.net/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTE0NDUyMjYsInVyaSI6Ii9iZW50cmUuYWRtLjQ4MHAudG1zIiwiaWF0IjoxNzExNDIzNjI2fQ.HpbZ26ZnByR8wV80oX1c6L8GcFHvKU6EkQORumnpJ98-/bentre.adm.480p.tms/chunks.m3u8 
 #EXTINF:0 group-title="6️⃣ Quê Hương" tvg-id="baclieu" tvg-logo="https://i.ibb.co/sq4hBPG/ccbaclieu.webp",ㅤ Bạc Liêu
 #EXTVLCOPT:http-user-agent=Edge/107.0.1418.24
 https://tv.thbl.vn/live/tv/tv.m3u8 
