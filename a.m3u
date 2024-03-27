@@ -33,19 +33,19 @@ https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
 #EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="vinhlong1hd" tvg-logo="https://i.ibb.co/PGxCzX8/ccVL1.webp",Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://live3.thvli.vn/wWR-8NATBlv6lEqryAdJ4Q/1711477524/thvli/thvl1-abr/tracks-v2a1/mono.m3u8?filter.tracks=a1v1v2v3
+https://live3.thvli.vn/UfHE2kpm1Oov8FwaPwfxpA/1711520497/thvli/thvl1-abr/tracks-v2a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTVLCOPT:http-referer=https://www.thvli.vn/
 #EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="vinhlong2hd" tvg-logo="https://i.ibb.co/0FDCSbz/ccVL2.webp",Vĩnh Long 2
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
-https://live3.thvli.vn/un9GcnC2_ytNC-lwR6AkXA/1711477714/thvli/thvl2-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
+https://live3.thvli.vn/MI57wtzC3-rUc_8rLYFBoQ/1711520463/thvli/thvl2-abr/tracks-v2a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTVLCOPT:http-referer=https://www.thvli.vn/
 #EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="vinhlong3hd" tvg-logo="https://i.ibb.co/xg7jXGs/ccVL3.webp",Vĩnh Long 3
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://www.thvli.vn/
-https://live3.thvli.vn/vTduFOImx1r9jwaau02dTg/1711478051/thvli/thvl3-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
+https://live3.thvli.vn/IOsefZiolf1_qu-BIaBK7g/1711520533/thvli/thvl3-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTVLCOPT:http-referer=https://www.thvli.vn/
 #EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="vinhlong4hd" tvg-logo="https://i.ibb.co/74ydSzT/ccVL4.webp",Vĩnh Long 4
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://www.thvli.vn/
-https://live3.thvli.vn/TMRoRZyZN5iF-xXPdh26KQ/1711477924/thvli/thvl4-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
+https://live3.thvli.vn/uR7I-VwEPoEu-WLyAQFhMA/1711520551/thvli/thvl4-abr/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2v3
 #EXTINF:0 type="stream" group-title="6️⃣ Quê Hương" tvg-id="vinhphuc" tvg-logo="https://i.ibb.co/9YtVjcy/ccvinhphuc.webp",ㅤ Vĩnh Phúc
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://www.thvli.vn/
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/chunklist.m3u8 
