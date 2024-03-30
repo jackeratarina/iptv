@@ -44,4 +44,4 @@ async function getData(channel){
       });
       return resp;
 }
-export default getData
+export default getData 
