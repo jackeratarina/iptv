@@ -81,7 +81,7 @@ type Response struct {
 
 // Gin handler function
 func tvHandler(ctx *gin.Context) {
-	channel := ctx.Query("channel")
+	channel := ctx.Param("channel")
 	resp, err := getData(channel)
 	if err != nil {
 		ctx.JSON(http.StatusInternalServerError, gin.H{"error": err.Error()})
@@ -113,6 +113,6 @@ func tvHandler(ctx *gin.Context) {
 func main() {
 	// gin.SetMode(gin.ReleaseMode)
 	r := gin.Default()
-	r.GET("/tv", tvHandler)
+	r.GET("/tv/:channel", tvHandler)
 	r.Run(":43009") // Run the server on port 8080
 }
