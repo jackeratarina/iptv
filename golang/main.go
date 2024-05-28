@@ -51,7 +51,7 @@ func getHeadersAuthen() map[string]string {
 }
 
 func getData(channel string) (*http.Response, error) {
-	url := fmt.Sprintf("https://api.thvli.vn/backend/cm/get_detail/%s-hd/?timezone=Asia/Saigon", channel)
+	url := fmt.Sprintf("https://api.thvli.vn/backend/cm/get_detail/%s-hd/?timezone=Asia/Ho_Chi_Minh", channel)
 	client := &http.Client{}
 	req, err := http.NewRequest("GET", url, nil)
 	if err != nil {
@@ -111,7 +111,8 @@ func tvHandler(ctx *gin.Context) {
 }
 
 func main() {
+	// gin.SetMode(gin.ReleaseMode)
 	r := gin.Default()
 	r.GET("/tv", tvHandler)
-	r.Run(":8009") // Run the server on port 8080
+	r.Run(":43009") // Run the server on port 8080
 }
